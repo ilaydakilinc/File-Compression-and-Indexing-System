@@ -44,7 +44,7 @@ A simplified file management system developed for the Computer Algorithms course
 - Handling corrupted or incompatible `.compressed` files
 
 ## 📁 Project Structure
-.
+
 ├── main.py
 ├── compression/
 │ └── huffman.py
